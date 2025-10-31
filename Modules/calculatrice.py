@@ -19,7 +19,7 @@ def division(a, b):
 while True:
     print("--------------------------------")
     print("Calculatrice simple : ")
-    print("1. Addition")
+    print("1. Acalculatriceddition")
     print("2. Soustraction")
     print("3. Multiplication")
     print("4. Division")

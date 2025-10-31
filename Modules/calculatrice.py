@@ -15,7 +15,7 @@ def division(a, b):
         return a / b
     return "Division par 0 impossible"
 
-
+#commentaire pour tester le push via GNU Pycharm
 while True:
     print("--------------------------------")
     print("Calculatrice simple : ")
